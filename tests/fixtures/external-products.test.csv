@@ -1,0 +1,2 @@
+provider,external_product_id,source_url,import_status,last_synced_at,test_data,product_type,slug,country,location,category,title_ru,title_en,description_ru,description_en
+ test_fixture,TEST-CSV-001,https://example.invalid/test-products/csv-001,pending,2026-10-14T00:00:00Z,true,ticket,test-only-ticket-csv,thailand,chiang-mai,tickets,ТЕСТ — синтетический билет,TEST ONLY — synthetic ticket,Только тест. Не реальный продукт.,Test only. Not a real product.

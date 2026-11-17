@@ -1,0 +1,725 @@
+{
+  "schema_version": 1,
+  "products": [
+    {
+      "provider": "klook",
+      "external_product_id": "127",
+      "source_url": "https://www.klook.com/en-US/activity/127-gardens-by-the-bay-singapore/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-25T14:35:00Z",
+      "test_data": false,
+      "product_type": "park",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "singapore-city",
+          "country": "singapore",
+          "name": {
+            "ru": "Сингапур",
+            "en": "Singapore"
+          },
+          "kind": "city",
+          "parent": null
+        }
+      ],
+      "product": {
+        "slug": "klook-127-gardens-by-the-bay-singapore",
+        "country": "singapore",
+        "city": "singapore-city",
+        "location": "singapore-city",
+        "category": "parks",
+        "title": {
+          "ru": "Билет в Gardens by the Bay",
+          "en": "Gardens by the Bay Ticket"
+        },
+        "summary": {
+          "ru": "Посещение садов Gardens by the Bay в Сингапуре.",
+          "en": "Visit Gardens by the Bay in Singapore."
+        },
+        "description": {
+          "ru": [
+            "Посещение садов Gardens by the Bay в Сингапуре."
+          ],
+          "en": [
+            "Visit Gardens by the Bay in Singapore."
+          ]
+        },
+        "timezone": "Asia/Singapore",
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "seo": {
+          "title": {
+            "ru": "Билет в Gardens by the Bay",
+            "en": "Gardens by the Bay Ticket"
+          },
+          "description": {
+            "ru": "Посещение садов Gardens by the Bay в Сингапуре.",
+            "en": "Visit Gardens by the Bay in Singapore."
+          }
+        }
+      }
+    },
+    {
+      "provider": "klook",
+      "external_product_id": "117",
+      "source_url": "https://www.klook.com/en-US/activity/117-universal-studios-singapore/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-25T14:35:00Z",
+      "test_data": false,
+      "product_type": "park",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "singapore-city",
+          "country": "singapore",
+          "name": {
+            "ru": "Сингапур",
+            "en": "Singapore"
+          },
+          "kind": "city",
+          "parent": null
+        }
+      ],
+      "product": {
+        "slug": "klook-117-universal-studios-singapore",
+        "country": "singapore",
+        "city": "singapore-city",
+        "location": "singapore-city",
+        "category": "parks",
+        "title": {
+          "ru": "Билет в Universal Studios Singapore",
+          "en": "Universal Studios Singapore Ticket"
+        },
+        "summary": {
+          "ru": "Посещение тематического парка Universal Studios Singapore на Сентозе.",
+          "en": "Visit Universal Studios Singapore theme park on Sentosa."
+        },
+        "description": {
+          "ru": [
+            "Посещение тематического парка Universal Studios Singapore на Сентозе."
+          ],
+          "en": [
+            "Visit Universal Studios Singapore theme park on Sentosa."
+          ]
+        },
+        "timezone": "Asia/Singapore",
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "seo": {
+          "title": {
+            "ru": "Билет в Universal Studios Singapore",
+            "en": "Universal Studios Singapore Ticket"
+          },
+          "description": {
+            "ru": "Посещение тематического парка Universal Studios Singapore на Сентозе.",
+            "en": "Visit Universal Studios Singapore theme park on Sentosa."
+          }
+        }
+      }
+    },
+    {
+      "provider": "klook",
+      "external_product_id": "119",
+      "source_url": "https://www.klook.com/en-US/activity/119-singapore-oceanarium/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-25T14:35:00Z",
+      "test_data": false,
+      "product_type": "ticket",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "singapore-city",
+          "country": "singapore",
+          "name": {
+            "ru": "Сингапур",
+            "en": "Singapore"
+          },
+          "kind": "city",
+          "parent": null
+        }
+      ],
+      "product": {
+        "slug": "klook-119-singapore-oceanarium",
+        "country": "singapore",
+        "city": "singapore-city",
+        "location": "singapore-city",
+        "category": "tickets",
+        "title": {
+          "ru": "Билет в Singapore Oceanarium",
+          "en": "Singapore Oceanarium Ticket"
+        },
+        "summary": {
+          "ru": "Посещение Singapore Oceanarium на острове Сентоза.",
+          "en": "Visit Singapore Oceanarium on Sentosa Island."
+        },
+        "description": {
+          "ru": [
+            "Посещение Singapore Oceanarium на острове Сентоза."
+          ],
+          "en": [
+            "Visit Singapore Oceanarium on Sentosa Island."
+          ]
+        },
+        "timezone": "Asia/Singapore",
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "seo": {
+          "title": {
+            "ru": "Билет в Singapore Oceanarium",
+            "en": "Singapore Oceanarium Ticket"
+          },
+          "description": {
+            "ru": "Посещение Singapore Oceanarium на острове Сентоза.",
+            "en": "Visit Singapore Oceanarium on Sentosa Island."
+          }
+        }
+      }
+    },
+    {
+      "provider": "klook",
+      "external_product_id": "3928",
+      "source_url": "https://www.klook.com/en-US/activity/3928-singapore-night-safari-singapore/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-25T14:35:00Z",
+      "test_data": false,
+      "product_type": "ticket",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "singapore-city",
+          "country": "singapore",
+          "name": {
+            "ru": "Сингапур",
+            "en": "Singapore"
+          },
+          "kind": "city",
+          "parent": null
+        }
+      ],
+      "product": {
+        "slug": "klook-3928-singapore-night-safari-singapore",
+        "country": "singapore",
+        "city": "singapore-city",
+        "location": "singapore-city",
+        "category": "tickets",
+        "title": {
+          "ru": "Билет в Night Safari, Сингапур",
+          "en": "Night Safari Ticket | Mandai Wildlife Reserve, Singapore"
+        },
+        "summary": {
+          "ru": "Посещение Night Safari в природном комплексе Mandai в Сингапуре.",
+          "en": "Visit Night Safari at Mandai Wildlife Reserve in Singapore."
+        },
+        "description": {
+          "ru": [
+            "Посещение Night Safari в природном комплексе Mandai в Сингапуре."
+          ],
+          "en": [
+            "Visit Night Safari at Mandai Wildlife Reserve in Singapore."
+          ]
+        },
+        "timezone": "Asia/Singapore",
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "seo": {
+          "title": {
+            "ru": "Билет в Night Safari, Сингапур",
+            "en": "Night Safari Ticket | Mandai Wildlife Reserve, Singapore"
+          },
+          "description": {
+            "ru": "Посещение Night Safari в природном комплексе Mandai в Сингапуре.",
+            "en": "Visit Night Safari at Mandai Wildlife Reserve in Singapore."
+          }
+        }
+      }
+    },
+    {
+      "provider": "klook",
+      "external_product_id": "141",
+      "source_url": "https://www.klook.com/en-US/activity/141-singapore-zoo-singapore/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-25T14:35:00Z",
+      "test_data": false,
+      "product_type": "ticket",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "singapore-city",
+          "country": "singapore",
+          "name": {
+            "ru": "Сингапур",
+            "en": "Singapore"
+          },
+          "kind": "city",
+          "parent": null
+        }
+      ],
+      "product": {
+        "slug": "klook-141-singapore-zoo-singapore",
+        "country": "singapore",
+        "city": "singapore-city",
+        "location": "singapore-city",
+        "category": "tickets",
+        "title": {
+          "ru": "Билет в Сингапурский зоопарк",
+          "en": "Singapore Zoo Ticket | Mandai Wildlife Reserve, Singapore"
+        },
+        "summary": {
+          "ru": "Посещение Сингапурского зоопарка в комплексе Mandai.",
+          "en": "Visit Singapore Zoo at Mandai Wildlife Reserve."
+        },
+        "description": {
+          "ru": [
+            "Посещение Сингапурского зоопарка в комплексе Mandai."
+          ],
+          "en": [
+            "Visit Singapore Zoo at Mandai Wildlife Reserve."
+          ]
+        },
+        "timezone": "Asia/Singapore",
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "seo": {
+          "title": {
+            "ru": "Билет в Сингапурский зоопарк",
+            "en": "Singapore Zoo Ticket | Mandai Wildlife Reserve, Singapore"
+          },
+          "description": {
+            "ru": "Посещение Сингапурского зоопарка в комплексе Mandai.",
+            "en": "Visit Singapore Zoo at Mandai Wildlife Reserve."
+          }
+        }
+      }
+    },
+    {
+      "provider": "klook",
+      "external_product_id": "132",
+      "source_url": "https://www.klook.com/en-US/activity/132-skyline-luge-singapore/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-25T14:35:00Z",
+      "test_data": false,
+      "product_type": "entertainment",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "singapore-city",
+          "country": "singapore",
+          "name": {
+            "ru": "Сингапур",
+            "en": "Singapore"
+          },
+          "kind": "city",
+          "parent": null
+        }
+      ],
+      "product": {
+        "slug": "klook-132-skyline-luge-singapore",
+        "country": "singapore",
+        "city": "singapore-city",
+        "location": "singapore-city",
+        "category": "entertainment",
+        "title": {
+          "ru": "Билет в Skyline Luge Singapore",
+          "en": "Skyline Luge Singapore Ticket"
+        },
+        "summary": {
+          "ru": "Посещение Skyline Luge на острове Сентоза в Сингапуре.",
+          "en": "Visit Skyline Luge on Sentosa Island in Singapore."
+        },
+        "description": {
+          "ru": [
+            "Посещение Skyline Luge на острове Сентоза в Сингапуре."
+          ],
+          "en": [
+            "Visit Skyline Luge on Sentosa Island in Singapore."
+          ]
+        },
+        "timezone": "Asia/Singapore",
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "seo": {
+          "title": {
+            "ru": "Билет в Skyline Luge Singapore",
+            "en": "Skyline Luge Singapore Ticket"
+          },
+          "description": {
+            "ru": "Посещение Skyline Luge на острове Сентоза в Сингапуре.",
+            "en": "Visit Skyline Luge on Sentosa Island in Singapore."
+          }
+        }
+      }
+    },
+    {
+      "provider": "klook",
+      "external_product_id": "130",
+      "source_url": "https://www.klook.com/en-US/activity/130-faber-peak-cable-car-singapore/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-25T14:35:00Z",
+      "test_data": false,
+      "product_type": "ticket",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "singapore-city",
+          "country": "singapore",
+          "name": {
+            "ru": "Сингапур",
+            "en": "Singapore"
+          },
+          "kind": "city",
+          "parent": null
+        }
+      ],
+      "product": {
+        "slug": "klook-130-faber-peak-cable-car-singapore",
+        "country": "singapore",
+        "city": "singapore-city",
+        "location": "singapore-city",
+        "category": "tickets",
+        "title": {
+          "ru": "Singapore Cable Car SkyPass — канатная дорога",
+          "en": "Singapore Cable Car SkyPass"
+        },
+        "summary": {
+          "ru": "Поездка по канатной дороге Singapore Cable Car. Доступные линии зависят от выбранного пакета.",
+          "en": "Ride the Singapore Cable Car. Included lines depend on the selected package."
+        },
+        "description": {
+          "ru": [
+            "Поездка по канатной дороге Singapore Cable Car. Доступные линии зависят от выбранного пакета."
+          ],
+          "en": [
+            "Ride the Singapore Cable Car. Included lines depend on the selected package."
+          ]
+        },
+        "timezone": "Asia/Singapore",
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "seo": {
+          "title": {
+            "ru": "Singapore Cable Car SkyPass — канатная дорога",
+            "en": "Singapore Cable Car SkyPass"
+          },
+          "description": {
+            "ru": "Поездка по канатной дороге Singapore Cable Car. Доступные линии зависят от выбранного пакета.",
+            "en": "Ride the Singapore Cable Car. Included lines depend on the selected package."
+          }
+        }
+      }
+    },
+    {
+      "provider": "klook",
+      "external_product_id": "133319",
+      "source_url": "https://www.klook.com/en-US/activity/133319-harry-potter-visions-of-magic-in-resorts-world-sentosa-singapore/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-25T14:35:00Z",
+      "test_data": false,
+      "product_type": "entertainment",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "singapore-city",
+          "country": "singapore",
+          "name": {
+            "ru": "Сингапур",
+            "en": "Singapore"
+          },
+          "kind": "city",
+          "parent": null
+        }
+      ],
+      "product": {
+        "slug": "klook-133319-harry-potter-visions-of-magic-in-resorts-world-sentosa-singapore",
+        "country": "singapore",
+        "city": "singapore-city",
+        "location": "singapore-city",
+        "category": "entertainment",
+        "title": {
+          "ru": "Harry Potter: Visions of Magic — Сингапур",
+          "en": "Harry Potter: Visions of Magic"
+        },
+        "summary": {
+          "ru": "Посещение Harry Potter: Visions of Magic в Resorts World Sentosa.",
+          "en": "Visit Harry Potter: Visions of Magic at Resorts World Sentosa."
+        },
+        "description": {
+          "ru": [
+            "Посещение Harry Potter: Visions of Magic в Resorts World Sentosa."
+          ],
+          "en": [
+            "Visit Harry Potter: Visions of Magic at Resorts World Sentosa."
+          ]
+        },
+        "timezone": "Asia/Singapore",
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "seo": {
+          "title": {
+            "ru": "Harry Potter: Visions of Magic — Сингапур",
+            "en": "Harry Potter: Visions of Magic"
+          },
+          "description": {
+            "ru": "Посещение Harry Potter: Visions of Magic в Resorts World Sentosa.",
+            "en": "Visit Harry Potter: Visions of Magic at Resorts World Sentosa."
+          }
+        }
+      }
+    },
+    {
+      "provider": "klook",
+      "external_product_id": "135",
+      "source_url": "https://www.klook.com/en-US/activity/135-wings-of-time-singapore/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-25T14:35:00Z",
+      "test_data": false,
+      "product_type": "show",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "singapore-city",
+          "country": "singapore",
+          "name": {
+            "ru": "Сингапур",
+            "en": "Singapore"
+          },
+          "kind": "city",
+          "parent": null
+        }
+      ],
+      "product": {
+        "slug": "klook-135-wings-of-time-singapore",
+        "country": "singapore",
+        "city": "singapore-city",
+        "location": "singapore-city",
+        "category": "shows",
+        "title": {
+          "ru": "Билет на Wings of Time Fireworks Symphony",
+          "en": "Wings of Time Fireworks Symphony Ticket in Singapore"
+        },
+        "summary": {
+          "ru": "Посещение шоу Wings of Time Fireworks Symphony в Сингапуре.",
+          "en": "Attend Wings of Time Fireworks Symphony in Singapore."
+        },
+        "description": {
+          "ru": [
+            "Посещение шоу Wings of Time Fireworks Symphony в Сингапуре."
+          ],
+          "en": [
+            "Attend Wings of Time Fireworks Symphony in Singapore."
+          ]
+        },
+        "timezone": "Asia/Singapore",
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "seo": {
+          "title": {
+            "ru": "Билет на Wings of Time Fireworks Symphony",
+            "en": "Wings of Time Fireworks Symphony Ticket in Singapore"
+          },
+          "description": {
+            "ru": "Посещение шоу Wings of Time Fireworks Symphony в Сингапуре.",
+            "en": "Attend Wings of Time Fireworks Symphony in Singapore."
+          }
+        }
+      }
+    },
+    {
+      "provider": "klook",
+      "external_product_id": "240417",
+      "source_url": "https://www.klook.com/en-US/activity/240417-attack-on-titan-the-musical/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-25T14:35:00Z",
+      "test_data": false,
+      "product_type": "show",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "singapore-city",
+          "country": "singapore",
+          "name": {
+            "ru": "Сингапур",
+            "en": "Singapore"
+          },
+          "kind": "city",
+          "parent": null
+        }
+      ],
+      "product": {
+        "slug": "klook-240417-attack-on-titan-the-musical",
+        "country": "singapore",
+        "city": "singapore-city",
+        "location": "singapore-city",
+        "category": "shows",
+        "title": {
+          "ru": "ATTACK on TITAN: The Musical — мюзикл",
+          "en": "ATTACK on TITAN: The Musical"
+        },
+        "summary": {
+          "ru": "Мюзикл ATTACK on TITAN в Сингапуре. Даты показа требуют отдельной проверки.",
+          "en": "ATTACK on TITAN musical in Singapore. Performance dates require separate verification."
+        },
+        "description": {
+          "ru": [
+            "Мюзикл ATTACK on TITAN в Сингапуре. Даты показа требуют отдельной проверки."
+          ],
+          "en": [
+            "ATTACK on TITAN musical in Singapore. Performance dates require separate verification."
+          ]
+        },
+        "timezone": "Asia/Singapore",
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "seo": {
+          "title": {
+            "ru": "ATTACK on TITAN: The Musical — мюзикл",
+            "en": "ATTACK on TITAN: The Musical"
+          },
+          "description": {
+            "ru": "Мюзикл ATTACK on TITAN в Сингапуре. Даты показа требуют отдельной проверки.",
+            "en": "ATTACK on TITAN musical in Singapore. Performance dates require separate verification."
+          }
+        }
+      }
+    },
+    {
+      "provider": "klook",
+      "external_product_id": "34577",
+      "source_url": "https://www.klook.com/en-US/activity/34577-golden-village-cinema-everyday-movie-e-voucher/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-25T14:35:00Z",
+      "test_data": false,
+      "product_type": "entertainment",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "singapore-city",
+          "country": "singapore",
+          "name": {
+            "ru": "Сингапур",
+            "en": "Singapore"
+          },
+          "kind": "city",
+          "parent": null
+        }
+      ],
+      "product": {
+        "slug": "klook-34577-golden-village-cinema-everyday-movie-e-voucher",
+        "country": "singapore",
+        "city": "singapore-city",
+        "location": "singapore-city",
+        "category": "entertainment",
+        "title": {
+          "ru": "Электронный ваучер Golden Village Cinema EVERYDAY",
+          "en": "Golden Village Cinema EVERYDAY Movie e-Voucher"
+        },
+        "summary": {
+          "ru": "Электронный ваучер для кинотеатров Golden Village в Сингапуре. Условия использования зависят от пакета.",
+          "en": "An electronic voucher for Golden Village cinemas in Singapore. Redemption conditions depend on the package."
+        },
+        "description": {
+          "ru": [
+            "Электронный ваучер для кинотеатров Golden Village в Сингапуре. Условия использования зависят от пакета."
+          ],
+          "en": [
+            "An electronic voucher for Golden Village cinemas in Singapore. Redemption conditions depend on the package."
+          ]
+        },
+        "timezone": "Asia/Singapore",
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "seo": {
+          "title": {
+            "ru": "Электронный ваучер Golden Village Cinema EVERYDAY",
+            "en": "Golden Village Cinema EVERYDAY Movie e-Voucher"
+          },
+          "description": {
+            "ru": "Электронный ваучер для кинотеатров Golden Village в Сингапуре. Условия использования зависят от пакета.",
+            "en": "An electronic voucher for Golden Village cinemas in Singapore. Redemption conditions depend on the package."
+          }
+        }
+      }
+    },
+    {
+      "provider": "klook",
+      "external_product_id": "3846",
+      "source_url": "https://www.klook.com/en-US/activity/3846-river-cruise-singapore/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-25T14:35:00Z",
+      "test_data": false,
+      "product_type": "excursion",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "singapore-city",
+          "country": "singapore",
+          "name": {
+            "ru": "Сингапур",
+            "en": "Singapore"
+          },
+          "kind": "city",
+          "parent": null
+        }
+      ],
+      "product": {
+        "slug": "klook-3846-river-cruise-singapore",
+        "country": "singapore",
+        "city": "singapore-city",
+        "location": "singapore-city",
+        "category": "sea",
+        "title": {
+          "ru": "Речной круиз по Сингапуру",
+          "en": "Singapore River Cruise"
+        },
+        "summary": {
+          "ru": "Речная прогулка Singapore River Cruise в Сингапуре.",
+          "en": "Take a Singapore River Cruise in Singapore."
+        },
+        "description": {
+          "ru": [
+            "Речная прогулка Singapore River Cruise в Сингапуре."
+          ],
+          "en": [
+            "Take a Singapore River Cruise in Singapore."
+          ]
+        },
+        "timezone": "Asia/Singapore",
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "seo": {
+          "title": {
+            "ru": "Речной круиз по Сингапуру",
+            "en": "Singapore River Cruise"
+          },
+          "description": {
+            "ru": "Речная прогулка Singapore River Cruise в Сингапуре.",
+            "en": "Take a Singapore River Cruise in Singapore."
+          }
+        }
+      }
+    }
+  ]
+}

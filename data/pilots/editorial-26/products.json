@@ -1,0 +1,1993 @@
+{
+  "schema_version": 1,
+  "products": [
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-TH-01",
+      "source_url": "https://www.royalgrandpalace.th/en/home",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "activity",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-th-01-venue",
+          "country": "thailand",
+          "name": {
+            "ru": "Большой дворец",
+            "en": "Grand Palace"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-thailand-bangkok-city",
+          "country": "thailand",
+          "name": {
+            "ru": "Бангкок",
+            "en": "Bangkok"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-th-01",
+        "country": "thailand",
+        "location": "pilot-th-01-venue",
+        "city": "pilot-thailand-bangkok-city",
+        "category": "culture",
+        "title": {
+          "ru": "Большой дворец: архитектура Бангкока",
+          "en": "Grand Palace: Bangkok architecture"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Большой дворец находится в Бангкоке. Эта редакционная карточка посвящена знакомству с дворцовым комплексом, а не конкретной экскурсионной программе.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "The Grand Palace is in Bangkok. This editorial entry introduces the palace complex rather than a particular guided-tour programme.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-TH-02",
+      "source_url": "https://kingpowermahanakhon.co.th/th/experience/mahanakhon-skywalk",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "activity",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-th-02-venue",
+          "country": "thailand",
+          "name": {
+            "ru": "Mahanakhon SkyWalk",
+            "en": "Mahanakhon SkyWalk"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-thailand-bangkok-city",
+          "country": "thailand",
+          "name": {
+            "ru": "Бангкок",
+            "en": "Bangkok"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-th-02",
+        "country": "thailand",
+        "location": "pilot-th-02-venue",
+        "city": "pilot-thailand-bangkok-city",
+        "category": "city",
+        "title": {
+          "ru": "Бангкок с высоты: Mahanakhon SkyWalk",
+          "en": "Bangkok from above: Mahanakhon SkyWalk"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Mahanakhon SkyWalk — смотровая площадка в Бангкоке. Карточка знакомит с местом для обзора города; вариант посещения не выбран.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "Mahanakhon SkyWalk is an observation attraction in Bangkok. This entry introduces a place to view the city; no admission option has been selected.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-VN-01",
+      "source_url": "https://sunworld.vn/en/banahills/activities/golden-bridge",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "park",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-vn-01-venue",
+          "country": "vietnam",
+          "name": {
+            "ru": "Sun World Ba Na Hills",
+            "en": "Sun World Ba Na Hills"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-vietnam-da-nang-city",
+          "country": "vietnam",
+          "name": {
+            "ru": "Дананг",
+            "en": "Da Nang"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-vn-01",
+        "country": "vietnam",
+        "location": "pilot-vn-01-venue",
+        "city": "pilot-vietnam-da-nang-city",
+        "category": "parks",
+        "title": {
+          "ru": "Ba Na Hills: горный парк у Дананга",
+          "en": "Ba Na Hills: a mountain park near Da Nang"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Sun World Ba Na Hills расположен в районе Дананга. Карточка представляет туристический комплекс как направление, без обещания конкретных аттракционов в составе билета.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "Sun World Ba Na Hills is in the Da Nang area. This entry presents the visitor complex as a destination without promising attractions within a ticket package.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-VN-02",
+      "source_url": "https://sunworld.vn/en/banahills/activities/golden-bridge",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "activity",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-vn-02-venue",
+          "country": "vietnam",
+          "name": {
+            "ru": "Золотой мост Ba Na Hills",
+            "en": "Golden Bridge at Ba Na Hills"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-vietnam-da-nang-city",
+          "country": "vietnam",
+          "name": {
+            "ru": "Дананг",
+            "en": "Da Nang"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-vn-02",
+        "country": "vietnam",
+        "location": "pilot-vn-02-venue",
+        "city": "pilot-vietnam-da-nang-city",
+        "category": "culture",
+        "title": {
+          "ru": "Золотой мост: архитектурная прогулка в Ba Na Hills",
+          "en": "Golden Bridge: an architectural stop at Ba Na Hills"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Золотой мост находится в комплексе Ba Na Hills у Дананга. Редакционный акцент — сам мост; трансфер и сопровождаемая экскурсия здесь не заявлены.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "The Golden Bridge is within Ba Na Hills near Da Nang. This editorial entry focuses on the bridge itself; it does not promise a transfer or guided excursion.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-CN-01",
+      "source_url": "https://shcorporate.shanghaidisneyresort.com/wp-content/uploads/2021/05/SHDR_factsheet_EN_20210507.pdf",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "park",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-cn-01-venue",
+          "country": "china",
+          "name": {
+            "ru": "Shanghai Disneyland",
+            "en": "Shanghai Disneyland"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-china-shanghai-city",
+          "country": "china",
+          "name": {
+            "ru": "Шанхай",
+            "en": "Shanghai"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-cn-01",
+        "country": "china",
+        "location": "pilot-cn-01-venue",
+        "city": "pilot-china-shanghai-city",
+        "category": "parks",
+        "title": {
+          "ru": "Shanghai Disneyland: знакомство с тематическим парком",
+          "en": "Shanghai Disneyland: a theme park introduction"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Shanghai Disneyland — тематический парк в Шанхае. Карточка обозначает объект и тип отдыха, не определяя состав билета или доступность аттракционов.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "Shanghai Disneyland is a theme park in Shanghai. This entry identifies the venue and activity type without defining admission benefits or attraction availability.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-CN-02",
+      "source_url": "https://intl.dpm.org.cn/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "museum",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-cn-02-venue",
+          "country": "china",
+          "name": {
+            "ru": "Дворцовый музей",
+            "en": "The Palace Museum"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-china-beijing-city",
+          "country": "china",
+          "name": {
+            "ru": "Пекин",
+            "en": "Beijing"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-cn-02",
+        "country": "china",
+        "location": "pilot-cn-02-venue",
+        "city": "pilot-china-beijing-city",
+        "category": "museums",
+        "title": {
+          "ru": "Запретный город: дворцовый музей Пекина",
+          "en": "Forbidden City: Beijing’s Palace Museum"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Дворцовый музей находится в Пекине, в комплексе Запретного города. Карточка посвящена музейному посещению без выбранного маршрута или входного сеанса.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "The Palace Museum is in Beijing’s Forbidden City complex. This entry concerns a museum visit without selecting a route or admission session.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-TR-01",
+      "source_url": "https://royalballoon.com/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "activity",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-tr-01-venue",
+          "country": "turkey",
+          "name": {
+            "ru": "Воздушные шары Каппадокии",
+            "en": "Cappadocia balloon flights"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": true
+        },
+        {
+          "slug": "pilot-turkey-goreme-city",
+          "country": "turkey",
+          "name": {
+            "ru": "Гёреме",
+            "en": "Goreme"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": true
+        }
+      ],
+      "product": {
+        "slug": "editorial-tr-01",
+        "country": "turkey",
+        "location": "pilot-tr-01-venue",
+        "city": "pilot-turkey-goreme-city",
+        "category": "adventure",
+        "title": {
+          "ru": "Каппадокия с воздуха: полёты на воздушных шарах",
+          "en": "Cappadocia from the air: balloon flights"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Оператор Royal Balloon подтверждает полёты на воздушных шарах в Каппадокии и присутствие в Гёреме. Карточка описывает тип активности, а не выбранный рейс оператора.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "Royal Balloon confirms balloon flights in Cappadocia and its presence in Goreme. This entry describes the activity type rather than a selected operator departure.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-TR-02",
+      "source_url": "https://www.muze.gov.tr/muze-detay?DistId=DKY&SectionId=DKY01",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "activity",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-tr-02-venue",
+          "country": "turkey",
+          "name": {
+            "ru": "Подземный город Деринкую",
+            "en": "Derinkuyu Underground City"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": true
+        },
+        {
+          "slug": "pilot-turkey-derinkuyu-city",
+          "country": "turkey",
+          "name": {
+            "ru": "Деринкую",
+            "en": "Derinkuyu"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": true
+        }
+      ],
+      "product": {
+        "slug": "editorial-tr-02",
+        "country": "turkey",
+        "location": "pilot-tr-02-venue",
+        "city": "pilot-turkey-derinkuyu-city",
+        "category": "culture",
+        "title": {
+          "ru": "Деринкую: подземное наследие Каппадокии",
+          "en": "Derinkuyu: Cappadocia’s underground heritage"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Подземный город Деринкую находится в одноимённом районе провинции Невшехир. Карточка представляет этот объект; программа Green Tour независимо не подтверждена.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "Derinkuyu Underground City is in the district of the same name in Nevsehir province. This entry presents that site; the Green Tour programme has not been independently verified.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-AE-01",
+      "source_url": "https://www.burjkhalifa.ae/experiences/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "activity",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-ae-01-venue",
+          "country": "united-arab-emirates",
+          "name": {
+            "ru": "Бурдж-Халифа — At the Top",
+            "en": "Burj Khalifa — At the Top"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-united-arab-emirates-dubai-city",
+          "country": "united-arab-emirates",
+          "name": {
+            "ru": "Дубай",
+            "en": "Dubai"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-ae-01",
+        "country": "united-arab-emirates",
+        "location": "pilot-ae-01-venue",
+        "city": "pilot-united-arab-emirates-dubai-city",
+        "category": "city",
+        "title": {
+          "ru": "Бурдж-Халифа: взгляд на Дубай с высоты",
+          "en": "Burj Khalifa: a view over Dubai"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "В Бурдж-Халифе в Дубае действуют смотровые пространства At the Top. Карточка знакомит с объектом, без выбора этажей, сеанса или билетного пакета.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "Burj Khalifa in Dubai offers At the Top observation experiences. This entry introduces the venue without selecting floors, a session or a ticket package.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-AE-02",
+      "source_url": "https://www.visitdubai.com/en/places-to-visit/desert-safari-dubai",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "activity",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-ae-02-venue",
+          "country": "united-arab-emirates",
+          "name": {
+            "ru": "Пустынные окрестности Дубая",
+            "en": "Dubai desert surroundings"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-united-arab-emirates-dubai-city",
+          "country": "united-arab-emirates",
+          "name": {
+            "ru": "Дубай",
+            "en": "Dubai"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-ae-02",
+        "country": "united-arab-emirates",
+        "location": "pilot-ae-02-venue",
+        "city": "pilot-united-arab-emirates-dubai-city",
+        "category": "adventure",
+        "title": {
+          "ru": "Пустыня у Дубая: знакомство с сафари",
+          "en": "Dubai’s desert: an introduction to safari activities"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Visit Dubai подтверждает пустынные сафари как туристическую активность в окрестностях города. Эта карточка описывает направление, не обещая транспорт, питание или отдельные развлечения.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "Visit Dubai confirms desert safaris as a visitor activity around the city. This entry describes the destination without promising transport, meals or individual entertainment activities.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-ID-01",
+      "source_url": "https://waterbom-bali.com/our-park",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "park",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-id-01-venue",
+          "country": "indonesia",
+          "name": {
+            "ru": "Waterbom Bali",
+            "en": "Waterbom Bali"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-indonesia-kuta-city",
+          "country": "indonesia",
+          "name": {
+            "ru": "Кута",
+            "en": "Kuta"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-id-01",
+        "country": "indonesia",
+        "location": "pilot-id-01-venue",
+        "city": "pilot-indonesia-kuta-city",
+        "category": "parks",
+        "title": {
+          "ru": "Waterbom Bali: водный парк в Куте",
+          "en": "Waterbom Bali: a water park in Kuta"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Waterbom Bali — водный парк в Куте на острове Бали. Карточка посвящена объекту; перечень доступных развлечений и состав входного билета не определены.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "Waterbom Bali is a water park in Kuta on Bali. This entry introduces the venue; available attractions and admission benefits have not been specified.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-ID-02",
+      "source_url": "https://ngurahrai.injourneyairports.id/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "transfer",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-id-02-venue",
+          "country": "indonesia",
+          "name": {
+            "ru": "Аэропорт I Gusti Ngurah Rai",
+            "en": "I Gusti Ngurah Rai Airport"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-id-02",
+        "country": "indonesia",
+        "location": "pilot-id-02-venue",
+        "city": null,
+        "category": "transfers",
+        "title": {
+          "ru": "Аэропорт Бали: наземный транспорт",
+          "en": "Bali airport: ground transport"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Официальный сайт аэропорта I Gusti Ngurah Rai содержит информацию о наземном транспорте. Карточка справочная: конкретный маршрут, автомобиль и обслуживание в лаунже не заявлены.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "I Gusti Ngurah Rai Airport’s official website provides ground-transport information. This is a reference entry: no particular route, vehicle or lounge service is promised.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-LK-01",
+      "source_url": "https://ccf.gov.lk/heritage-sites/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "activity",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-lk-01-venue",
+          "country": "sri-lanka",
+          "name": {
+            "ru": "Археологический комплекс Сигирия",
+            "en": "Sigiriya heritage site"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-lk-01",
+        "country": "sri-lanka",
+        "location": "pilot-lk-01-venue",
+        "city": null,
+        "category": "culture",
+        "title": {
+          "ru": "Сигирия: знакомство со скальным наследием",
+          "en": "Sigiriya: an introduction to rock heritage"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Сигирия — культурно-исторический объект Шри-Ланки, представленный Central Cultural Fund. Карточка касается самого комплекса, без маршрута из Коломбо или дополнительных остановок.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "Sigiriya is a Sri Lankan cultural heritage site listed by the Central Cultural Fund. This entry concerns the site itself, without a route from Colombo or additional stops.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-LK-02",
+      "source_url": "https://ccf.gov.lk/heritage-sites/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "activity",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-lk-02-venue",
+          "country": "sri-lanka",
+          "name": {
+            "ru": "Пещерный храм Дамбуллы",
+            "en": "Dambulla Cave Temple"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-sri-lanka-dambulla-city",
+          "country": "sri-lanka",
+          "name": {
+            "ru": "Дамбулла",
+            "en": "Dambulla"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-lk-02",
+        "country": "sri-lanka",
+        "location": "pilot-lk-02-venue",
+        "city": "pilot-sri-lanka-dambulla-city",
+        "category": "culture",
+        "title": {
+          "ru": "Дамбулла: пещерный храмовый комплекс",
+          "en": "Dambulla: a cave temple complex"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Пещерный храм Дамбуллы указан среди объектов Central Cultural Fund. Карточка представляет храмовый комплекс без заявленного маршрута из Анурадхапуры или посещения Пидурангалы.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "Dambulla Cave Temple is listed among the Central Cultural Fund’s sites. This entry introduces the temple complex without claiming a route from Anuradhapura or a Pidurangala visit.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-MV-01",
+      "source_url": "https://secretparadise.mv/product/3-point-morning-or-afternoon-snorkeling-copy/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "activity",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-mv-01-venue",
+          "country": "maldives",
+          "name": {
+            "ru": "Морская акватория района Мале",
+            "en": "Marine waters around Male"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-mv-01",
+        "country": "maldives",
+        "location": "pilot-mv-01-venue",
+        "city": null,
+        "category": "sea",
+        "title": {
+          "ru": "Мале: знакомство со снорклингом",
+          "en": "Male: an introduction to snorkeling"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Secret Paradise подтверждает снорклинг-активности в районе Мале с отправлением из Хулхумале. Карточка не определяет риф, количество остановок или включённое снаряжение.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "Secret Paradise confirms snorkeling activities around Male departing from Hulhumale. This entry does not specify a reef, number of stops or included equipment.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-MV-02",
+      "source_url": "https://secretparadise.mv/product/4-hour-villimale-eco-walking-tour/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "activity",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-mv-02-venue",
+          "country": "maldives",
+          "name": {
+            "ru": "Остров Вилимале",
+            "en": "Villimale island"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-mv-02",
+        "country": "maldives",
+        "location": "pilot-mv-02-venue",
+        "city": null,
+        "category": "culture",
+        "title": {
+          "ru": "Вилимале: островная прогулка",
+          "en": "Villimale: an island walk"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Secret Paradise описывает пешие прогулки по Вилимале. Карточка представляет остров и формат знакомства с ним, без копирования операторской программы или списка услуг.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "Secret Paradise describes walking visits to Villimale. This entry presents the island and activity format without reproducing the operator’s programme or list of services.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-IN-01",
+      "source_url": "https://www.tajmahal.gov.in/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "activity",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-in-01-venue",
+          "country": "india",
+          "name": {
+            "ru": "Тадж-Махал",
+            "en": "Taj Mahal"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-india-agra-city",
+          "country": "india",
+          "name": {
+            "ru": "Агра",
+            "en": "Agra"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-in-01",
+        "country": "india",
+        "location": "pilot-in-01-venue",
+        "city": "pilot-india-agra-city",
+        "category": "culture",
+        "title": {
+          "ru": "Тадж-Махал: архитектурное наследие Агры",
+          "en": "Taj Mahal: Agra’s architectural heritage"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Тадж-Махал расположен в Агре. Эта редакционная карточка посвящена памятнику; посещение других объектов Агры и транспортное сопровождение не заявлены.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "The Taj Mahal is in Agra. This editorial entry focuses on the monument; other Agra sites and transport services are not promised.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-IN-02",
+      "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur.html",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "tour",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-in-02-venue",
+          "country": "india",
+          "name": {
+            "ru": "Золотой треугольник: Дели, Агра и Джайпур",
+            "en": "Golden Triangle: Delhi, Agra and Jaipur"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-india-delhi-city",
+          "country": "india",
+          "name": {
+            "ru": "Дели",
+            "en": "Delhi"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-in-02",
+        "country": "india",
+        "location": "pilot-in-02-venue",
+        "city": "pilot-india-delhi-city",
+        "category": "tours",
+        "title": {
+          "ru": "Золотой треугольник: три города Индии",
+          "en": "Golden Triangle: three Indian cities"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Официальный туристический ресурс Индии связывает Дели, Агру и Джайпур направлением «Золотой треугольник». Карточка — обзор этого направления, без программы по дням и включённых услуг.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "India’s official tourism resource identifies Delhi, Agra and Jaipur as the Golden Triangle. This entry is a destination overview without a day-by-day programme or included services.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-MY-01",
+      "source_url": "https://www.petronastwintowers.com.my/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "activity",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-my-01-venue",
+          "country": "malaysia",
+          "name": {
+            "ru": "Башни PETRONAS",
+            "en": "PETRONAS Twin Towers"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-malaysia-kuala-lumpur-city",
+          "country": "malaysia",
+          "name": {
+            "ru": "Куала-Лумпур",
+            "en": "Kuala Lumpur"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-my-01",
+        "country": "malaysia",
+        "location": "pilot-my-01-venue",
+        "city": "pilot-malaysia-kuala-lumpur-city",
+        "category": "city",
+        "title": {
+          "ru": "PETRONAS: башни Куала-Лумпура",
+          "en": "PETRONAS: Kuala Lumpur’s twin towers"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Башни PETRONAS находятся в Куала-Лумпуре. Карточка знакомит с архитектурным объектом, не выбирая смотровую программу или условия входа.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "The PETRONAS Twin Towers are in Kuala Lumpur. This entry introduces the architectural landmark without selecting a viewing programme or admission conditions.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-MY-02",
+      "source_url": "https://panoramalangkawi.com/visitor-information/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "activity",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-my-02-venue",
+          "country": "malaysia",
+          "name": {
+            "ru": "Канатная дорога SkyCab",
+            "en": "SkyCab cable car"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-my-02",
+        "country": "malaysia",
+        "location": "pilot-my-02-venue",
+        "city": null,
+        "category": "adventure",
+        "title": {
+          "ru": "Лангкави: панорамы с канатной дороги SkyCab",
+          "en": "Langkawi: cable-car views with SkyCab"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "SkyCab — канатная дорога на Лангкави, представленная оператором Panorama Langkawi. Карточка относится к этому объекту, без включения SkyBridge или других развлечений в пакет.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "SkyCab is a cable-car attraction on Langkawi presented by Panorama Langkawi. This entry concerns that attraction without bundling SkyBridge or other activities.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-PH-01",
+      "source_url": "https://manilaoceanpark.com/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "park",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-ph-01-venue",
+          "country": "philippines",
+          "name": {
+            "ru": "Manila Ocean Park",
+            "en": "Manila Ocean Park"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-philippines-manila-city",
+          "country": "philippines",
+          "name": {
+            "ru": "Манила",
+            "en": "Manila"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-ph-01",
+        "country": "philippines",
+        "location": "pilot-ph-01-venue",
+        "city": "pilot-philippines-manila-city",
+        "category": "parks",
+        "title": {
+          "ru": "Manila Ocean Park: морской парк в столице",
+          "en": "Manila Ocean Park: a marine park in the capital"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Manila Ocean Park — морской тематический парк в Маниле. Карточка представляет объект без выбранной комбинации экспозиций, шоу или услуг.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "Manila Ocean Park is a marine theme park in Manila. This entry introduces the venue without selecting a combination of exhibits, shows or services.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-PH-02",
+      "source_url": "https://moalboalcebu.gov.ph/home/",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "activity",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-ph-02-venue",
+          "country": "philippines",
+          "name": {
+            "ru": "Остров Пескадор",
+            "en": "Pescador Island"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-ph-02",
+        "country": "philippines",
+        "location": "pilot-ph-02-venue",
+        "city": null,
+        "category": "sea",
+        "title": {
+          "ru": "Пескадор: морское направление у Моалбоала",
+          "en": "Pescador: a marine destination near Moalboal"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Муниципальный сайт Моалбоала представляет остров Пескадор среди местных направлений. Карточка посвящена острову, без обещания лодочного маршрута, снорклинга или встреч с животными.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "Moalboal’s municipal website lists Pescador Island among local destinations. This entry concerns the island without promising a boat route, snorkeling session or wildlife encounters.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-KR-01",
+      "source_url": "https://www.nseoultower.co.kr/eng/visit/observatory.asp",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "activity",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-kr-01-venue",
+          "country": "south-korea",
+          "name": {
+            "ru": "N Seoul Tower",
+            "en": "N Seoul Tower"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-south-korea-seoul-city",
+          "country": "south-korea",
+          "name": {
+            "ru": "Сеул",
+            "en": "Seoul"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-kr-01",
+        "country": "south-korea",
+        "location": "pilot-kr-01-venue",
+        "city": "pilot-south-korea-seoul-city",
+        "category": "city",
+        "title": {
+          "ru": "N Seoul Tower: обзор Сеула",
+          "en": "N Seoul Tower: a view over Seoul"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "N Seoul Tower предлагает смотровую площадку в Сеуле. Карточка описывает объект и обзорный формат посещения, без выбранного входного времени или пакета.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "N Seoul Tower offers an observatory in Seoul. This entry describes the venue and viewing activity without selecting an admission time or package.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-KR-02",
+      "source_url": "https://nanta.co.kr/en/show/detail.php?id=1",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "show",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-kr-02-venue",
+          "country": "south-korea",
+          "name": {
+            "ru": "Театр NANTA в Мёндоне",
+            "en": "Myeongdong NANTA Theatre"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-south-korea-seoul-city",
+          "country": "south-korea",
+          "name": {
+            "ru": "Сеул",
+            "en": "Seoul"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-kr-02",
+        "country": "south-korea",
+        "location": "pilot-kr-02-venue",
+        "city": "pilot-south-korea-seoul-city",
+        "category": "shows",
+        "title": {
+          "ru": "NANTA: сценическое представление в Сеуле",
+          "en": "NANTA: a stage performance in Seoul"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Официальный сайт NANTA подтверждает представление в театре Мёндона в Сеуле. Карточка знакомит с шоу, не назначая дату, категорию мест или доступность билетов.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "NANTA’s official website confirms the performance at its Myeongdong theatre in Seoul. This entry introduces the show without assigning a date, seating category or ticket availability.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-JP-01",
+      "source_url": "https://www.usj.co.jp/web/en/us/access/train",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "park",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-jp-01-venue",
+          "country": "japan",
+          "name": {
+            "ru": "Universal Studios Japan",
+            "en": "Universal Studios Japan"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-japan-osaka-city",
+          "country": "japan",
+          "name": {
+            "ru": "Осака",
+            "en": "Osaka"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-jp-01",
+        "country": "japan",
+        "location": "pilot-jp-01-venue",
+        "city": "pilot-japan-osaka-city",
+        "category": "parks",
+        "title": {
+          "ru": "Universal Studios Japan: тематический парк Осаки",
+          "en": "Universal Studios Japan: Osaka’s theme park"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "Universal Studios Japan — тематический парк в Осаке. Карточка обозначает объект, без обещания доступа к отдельным зонам или ускоренного прохода.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "Universal Studios Japan is a theme park in Osaka. This entry identifies the venue without promising access to individual areas or expedited entry.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    },
+    {
+      "provider": "asia_edition_editorial",
+      "external_product_id": "AE-EDITORIAL-JP-02",
+      "source_url": "https://www.gotokyo.org/en/spot/1825/index.html",
+      "import_status": "needs_review",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": false,
+      "product_type": "museum",
+      "packages": [],
+      "locations": [
+        {
+          "slug": "pilot-jp-02-venue",
+          "country": "japan",
+          "name": {
+            "ru": "teamLab Planets TOKYO",
+            "en": "teamLab Planets TOKYO"
+          },
+          "kind": "destination",
+          "parent": null,
+          "asian_territory_verified": false
+        },
+        {
+          "slug": "pilot-japan-tokyo-city",
+          "country": "japan",
+          "name": {
+            "ru": "Токио",
+            "en": "Tokyo"
+          },
+          "kind": "city",
+          "parent": null,
+          "asian_territory_verified": false
+        }
+      ],
+      "product": {
+        "slug": "editorial-jp-02",
+        "country": "japan",
+        "location": "pilot-jp-02-venue",
+        "city": "pilot-japan-tokyo-city",
+        "category": "museums",
+        "title": {
+          "ru": "teamLab Planets: искусство в районе Тоёсу",
+          "en": "teamLab Planets: art in Toyosu"
+        },
+        "summary": {
+          "ru": "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены.",
+          "en": "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+        },
+        "description": {
+          "ru": [
+            "teamLab Planets TOKYO — художественное пространство в районе Тоёсу в Токио. Карточка посвящена знакомству с объектом, без выбранного сеанса и коммерческих условий.",
+            "Независимая редакционная черновая карточка ASIA EDITION. Не билет и не предложение бронирования. Коммерческие условия не проверены."
+          ],
+          "en": [
+            "teamLab Planets TOKYO is an art venue in Tokyo’s Toyosu district. This entry introduces the venue without selecting a session or commercial conditions.",
+            "Independent ASIA EDITION editorial draft. This is not a ticket or a booking offer. Commercial conditions have not been verified."
+          ]
+        },
+        "durationMinutes": null,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "departures": [],
+        "slots": [],
+        "itinerary": [],
+        "inclusions": {
+          "ru": [],
+          "en": []
+        },
+        "exclusions": {
+          "ru": [],
+          "en": []
+        },
+        "pickup": null,
+        "meeting": null,
+        "cancellation": null,
+        "bookingConditions": null,
+        "faq": []
+      }
+    }
+  ]
+}

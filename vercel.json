@@ -1,0 +1,36 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "nextjs",
+  "installCommand": "npx --yes pnpm@10.34.8 install --frozen-lockfile --prod=false",
+  "buildCommand": "npm run build",
+  "env": {
+    "BOOKING_TELEGRAM_URL": "https://t.me/VietnamTravelVN_bot",
+    "PUBLIC_PREVIEW_ONLY": "true",
+    "ADMIN_MODE": "disabled",
+    "TOUR_DATA_SOURCE": "static",
+    "POSTGRES_RUNTIME": "embedded",
+    "POSTGRES_REMOTE_ENABLED": "false",
+    "POSTGRES_LOCAL_WORKER": "off",
+    "PRIVATE_STORAGE_ENABLED": "false",
+    "INQUIRIES_ENABLED": "false",
+    "SITE_INDEXING_ENABLED": "false",
+    "COMMERCE_ENABLED": "false",
+    "COMMERCE_GOOGLE_ENABLED": "false"
+  },
+  "build": {
+    "env": {
+      "BOOKING_TELEGRAM_URL": "https://t.me/VietnamTravelVN_bot",
+      "PUBLIC_PREVIEW_ONLY": "true",
+      "ADMIN_MODE": "disabled",
+      "TOUR_DATA_SOURCE": "static",
+      "POSTGRES_RUNTIME": "embedded",
+      "POSTGRES_REMOTE_ENABLED": "false",
+      "POSTGRES_LOCAL_WORKER": "off",
+      "PRIVATE_STORAGE_ENABLED": "false",
+      "INQUIRIES_ENABLED": "false",
+      "SITE_INDEXING_ENABLED": "false",
+      "COMMERCE_ENABLED": "false",
+      "COMMERCE_GOOGLE_ENABLED": "false"
+    }
+  }
+}

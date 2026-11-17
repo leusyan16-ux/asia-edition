@@ -1,0 +1,27 @@
+{
+  "observed_at": "2026-10-25T14:35:00Z",
+  "source": "web search/index reader; NOT live checkout or a successful raw HTML crawl",
+  "products": 12,
+  "countries": [
+    "singapore"
+  ],
+  "initial": {
+    "created": 12,
+    "updated": 0,
+    "skipped": 0,
+    "failed": 0
+  },
+  "repeat": {
+    "created": 0,
+    "updated": 0,
+    "skipped": 12,
+    "failed": 0
+  },
+  "draft_only": true,
+  "ready_for_publication": 0,
+  "photo_head_checked": 3,
+  "photos_downloaded": 0,
+  "direct_http_status": 403,
+  "live_prices_verified": 0,
+  "active_catalog_modified": false
+}

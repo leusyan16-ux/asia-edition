@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "products": [
+    {
+      "provider": "test_fixture",
+      "external_product_id": "TEST-001",
+      "source_url": "https://example.invalid/test-products/001",
+      "import_status": "pending",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": true,
+      "product_type": "museum",
+      "locations": [],
+      "packages": [{"external_package_id":"TEST-PACKAGE-1","title":{"ru":"ТЕСТ — пакет без цены","en":"TEST ONLY — unpriced package"},"prices":[]}],
+      "product": {
+        "slug": "test-only-museum-001",
+        "country": "thailand",
+        "location": "chiang-mai",
+        "category": "museums",
+        "title": {"ru":"ТЕСТ — синтетический продукт музея","en":"TEST ONLY — synthetic museum product"},
+        "description":{"ru":["Синтетические данные для проверки импорта. Не реальная активность."],"en":["Synthetic import test data. Not a real activity."]},
+        "durationMinutes": 60,
+        "images": [],
+        "prices": [],
+        "availability": [],
+        "cancellation":{"ru":"ТЕСТ — условия не действуют","en":"TEST ONLY — no effective policy"}
+      }
+    },
+    {
+      "provider": "test_fixture",
+      "external_product_id": "TEST-002",
+      "source_url": "https://example.invalid/test-products/002",
+      "import_status": "pending",
+      "last_synced_at": "2026-10-14T00:00:00Z",
+      "test_data": true,
+      "product_type": "transfer",
+      "product": {"slug":"test-only-transfer-002","country":"vietnam","location":"ha-long-bay","category":"transfers","title":{"ru":"ТЕСТ — синтетический трансфер","en":"TEST ONLY — synthetic transfer"},"durationMinutes":30}
+    }
+  ]
+}

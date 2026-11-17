@@ -1,0 +1,49 @@
+{
+  "enabled": false,
+  "purpose": "Review checklist only; this file opens no connections",
+  "database": {
+    "approved_host": null,
+    "tls_required": true,
+    "reject_unauthorized_certificates": true,
+    "server_ca_source": "Trusted CA or separately approved CA bundle",
+    "pool_max_per_process": 4,
+    "connection_timeout_ms": 5000,
+    "statement_timeout_ms": 45000,
+    "idle_transaction_timeout_ms": 60000,
+    "reader_role": "asia_catalog_reader",
+    "editor_role": "asia_catalog_editor",
+    "worker_role": "asia_catalog_worker",
+    "browser_database_credentials": false
+  },
+  "storage": {
+    "bucket": null,
+    "private_by_default": true,
+    "delivery": "Server proxy or short-lived signed URL after access check",
+    "allowed_mime": ["image/jpeg", "image/png", "image/webp"],
+    "max_upload_bytes": 8388608,
+    "canonical_output": "image/webp",
+    "automatic_physical_purge": false
+  },
+  "migration_order": [
+    "supabase/migrations/202610100001_tour_inventory.sql",
+    "supabase/migrations/202610100002_admin.sql",
+    "supabase/migrations/202610140003_external_import_foundation.sql",
+    "supabase/migrations/202610180004_catalog_worker.sql",
+    "supabase/catalog-worker-role.sql",
+    "supabase/migrations/202610180005_catalog_projection.sql",
+    "supabase/migrations/202610180006_local_uploads_media.sql",
+    "supabase/migrations/202610220007_launch_workflows.sql"
+  ],
+  "publication_permission_api": true,
+  "automatic_publication": false,
+  "payments_enabled": false,
+  "booking_enabled": false,
+  "required_before_connection": [
+    "Separate user approval for staging connection and migrations",
+    "Disposable staging project, backups and restore test",
+    "Restricted server logins and TLS certificate verification",
+    "Native PostgreSQL parallel connection and failure tests",
+    "Private Storage adapter and RLS verification",
+    "No service-role credentials in browser code"
+  ]
+}

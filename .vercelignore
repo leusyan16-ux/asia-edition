@@ -1,0 +1,16 @@
+# Never upload workstation secrets, private catalog data or generated QA builds.
+.env*
+.admin-local/
+.admin-postgres/
+.git/
+.vercel/
+.agents/
+.codex/
+.next/
+.next-admin-qa/
+node_modules/
+.pnpm-store/
+qa/
+data/
+*.tsbuildinfo
+*.zip

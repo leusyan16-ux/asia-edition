@@ -1,0 +1,56 @@
+{
+  "checked_at": "2026-10-14T12:28:15.314Z",
+  "profile": "editorial-26",
+  "mode": "temporary_store_simulation_only",
+  "json_sha256": "8466eb345968e3fe3df075747f7a83711b96ed26e94a6d883e219494dc36ceff",
+  "csv_sha256": "8fbe0db676922402b69d19bd7dfcb45e820d011433397911ee227c9e9b802c5c",
+  "countries": {
+    "thailand": 2,
+    "vietnam": 2,
+    "china": 2,
+    "turkey": 2,
+    "united-arab-emirates": 2,
+    "indonesia": 2,
+    "sri-lanka": 2,
+    "maldives": 2,
+    "india": 2,
+    "malaysia": 2,
+    "philippines": 2,
+    "south-korea": 2,
+    "japan": 2
+  },
+  "json_preview": {
+    "created": 26,
+    "updated": 0,
+    "skipped": 0,
+    "failed": 0
+  },
+  "csv_preview": {
+    "created": 26,
+    "updated": 0,
+    "skipped": 0,
+    "failed": 0
+  },
+  "first_simulation": {
+    "created": 26,
+    "failed": 0
+  },
+  "json_reimport": {
+    "created": 0,
+    "updated": 0,
+    "skipped": 26,
+    "failed": 0
+  },
+  "csv_reimport": {
+    "created": 0,
+    "updated": 0,
+    "skipped": 26,
+    "failed": 0
+  },
+  "remaining_records": 26,
+  "published": 0,
+  "editorial_preservation": true,
+  "duplicate_rejected": true,
+  "working_catalog_written": false,
+  "remote_services_accessed": false
+}

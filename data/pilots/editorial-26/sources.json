@@ -1,0 +1,1477 @@
+{
+  "pilot": "editorial-26",
+  "checked_on": "2026-10-14",
+  "status": "prepared_only_not_imported",
+  "records": [
+    {
+      "external_product_id": "AE-EDITORIAL-TH-01",
+      "country": "thailand",
+      "locality": {
+        "ru": "Бангкок",
+        "en": "Bangkok"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Большой дворец",
+        "en": "Grand Palace"
+      },
+      "activity_type": "activity",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://www.royalgrandpalace.th/en/home",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Большой дворец находится в Бангкоке. Эта редакционная карточка посвящена знакомству с дворцовым комплексом, а не конкретной экскурсионной программе.",
+        "en": "The Grand Palace is in Bangkok. This editorial entry introduces the palace complex rather than a particular guided-tour programme."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "129462",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Подтверждён объект; гид, маршрут и пакет не подтверждены.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-TH-02",
+      "country": "thailand",
+      "locality": {
+        "ru": "Бангкок",
+        "en": "Bangkok"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Mahanakhon SkyWalk",
+        "en": "Mahanakhon SkyWalk"
+      },
+      "activity_type": "activity",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://kingpowermahanakhon.co.th/th/experience/mahanakhon-skywalk",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Mahanakhon SkyWalk — смотровая площадка в Бангкоке. Карточка знакомит с местом для обзора города; вариант посещения не выбран.",
+        "en": "Mahanakhon SkyWalk is an observation attraction in Bangkok. This entry introduces a place to view the city; no admission option has been selected."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "16870",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Не является билетом; этажи, пакеты и время посещения не импортированы.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-VN-01",
+      "country": "vietnam",
+      "locality": {
+        "ru": "Дананг",
+        "en": "Da Nang"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Sun World Ba Na Hills",
+        "en": "Sun World Ba Na Hills"
+      },
+      "activity_type": "park",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://sunworld.vn/en/banahills/activities/golden-bridge",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Sun World Ba Na Hills расположен в районе Дананга. Карточка представляет туристический комплекс как направление, без обещания конкретных аттракционов в составе билета.",
+        "en": "Sun World Ba Na Hills is in the Da Nang area. This entry presents the visitor complex as a destination without promising attractions within a ticket package."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "13283",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Карточка парка, не коммерческий билет.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-VN-02",
+      "country": "vietnam",
+      "locality": {
+        "ru": "Дананг",
+        "en": "Da Nang"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Золотой мост Ba Na Hills",
+        "en": "Golden Bridge at Ba Na Hills"
+      },
+      "activity_type": "activity",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://sunworld.vn/en/banahills/activities/golden-bridge",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Золотой мост находится в комплексе Ba Na Hills у Дананга. Редакционный акцент — сам мост; трансфер и сопровождаемая экскурсия здесь не заявлены.",
+        "en": "The Golden Bridge is within Ba Na Hills near Da Nang. This editorial entry focuses on the bridge itself; it does not promise a transfer or guided excursion."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "4809",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Сужено с коммерческого тура до подтверждённого объекта; не отдельный продаваемый билет на мост.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-CN-01",
+      "country": "china",
+      "locality": {
+        "ru": "Шанхай",
+        "en": "Shanghai"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Shanghai Disneyland",
+        "en": "Shanghai Disneyland"
+      },
+      "activity_type": "park",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://shcorporate.shanghaidisneyresort.com/wp-content/uploads/2021/05/SHDR_factsheet_EN_20210507.pdf",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Shanghai Disneyland — тематический парк в Шанхае. Карточка обозначает объект и тип отдыха, не определяя состав билета или доступность аттракционов.",
+        "en": "Shanghai Disneyland is a theme park in Shanghai. This entry identifies the venue and activity type without defining admission benefits or attraction availability."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "2128",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Официальный factsheet 2021: только устойчивые факты, не актуальный перечень зон. Основной сайт при проверке вернул страницу перегрузки.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-CN-02",
+      "country": "china",
+      "locality": {
+        "ru": "Пекин",
+        "en": "Beijing"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Дворцовый музей",
+        "en": "The Palace Museum"
+      },
+      "activity_type": "museum",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://intl.dpm.org.cn/",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Дворцовый музей находится в Пекине, в комплексе Запретного города. Карточка посвящена музейному посещению без выбранного маршрута или входного сеанса.",
+        "en": "The Palace Museum is in Beijing’s Forbidden City complex. This entry concerns a museum visit without selecting a route or admission session."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "5692",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Только объект и музейный тип активности.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-TR-01",
+      "country": "turkey",
+      "locality": {
+        "ru": "Гёреме",
+        "en": "Goreme"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Воздушные шары Каппадокии",
+        "en": "Cappadocia balloon flights"
+      },
+      "activity_type": "activity",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://royalballoon.com/",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        },
+        {
+          "url": "https://royalballoon.com/contact/",
+          "purpose": "Geography: Cappadocia/Nevsehir in Central Anatolia, Asian Turkey."
+        },
+        {
+          "url": "https://goturkiye.com/central",
+          "purpose": "Geography: Cappadocia/Nevsehir in Central Anatolia, Asian Turkey."
+        },
+        {
+          "url": "https://goturkiye.com/en/nevsehir",
+          "purpose": "Geography: Cappadocia/Nevsehir in Central Anatolia, Asian Turkey."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Оператор Royal Balloon подтверждает полёты на воздушных шарах в Каппадокии и присутствие в Гёреме. Карточка описывает тип активности, а не выбранный рейс оператора.",
+        "en": "Royal Balloon confirms balloon flights in Cappadocia and its presence in Goreme. This entry describes the activity type rather than a selected operator departure."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "78848",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Оператор используется как источник факта, не как наш поставщик. Не гарантируются взлёт, погода или место старта.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-TR-02",
+      "country": "turkey",
+      "locality": {
+        "ru": "Деринкую",
+        "en": "Derinkuyu"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Подземный город Деринкую",
+        "en": "Derinkuyu Underground City"
+      },
+      "activity_type": "activity",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://www.muze.gov.tr/muze-detay?DistId=DKY&SectionId=DKY01",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        },
+        {
+          "url": "https://goturkiye.com/central",
+          "purpose": "Geography: Cappadocia/Nevsehir in Central Anatolia, Asian Turkey."
+        },
+        {
+          "url": "https://goturkiye.com/en/nevsehir",
+          "purpose": "Geography: Cappadocia/Nevsehir in Central Anatolia, Asian Turkey."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Подземный город Деринкую находится в одноимённом районе провинции Невшехир. Карточка представляет этот объект; программа Green Tour независимо не подтверждена.",
+        "en": "Derinkuyu Underground City is in the district of the same name in Nevsehir province. This entry presents that site; the Green Tour programme has not been independently verified."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "202485",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Замена непроверенного коммерческого Green Tour самостоятельной карточкой объекта. Не заявляется совпадение маршрутов.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-AE-01",
+      "country": "united-arab-emirates",
+      "locality": {
+        "ru": "Дубай",
+        "en": "Dubai"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Бурдж-Халифа — At the Top",
+        "en": "Burj Khalifa — At the Top"
+      },
+      "activity_type": "activity",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://www.burjkhalifa.ae/experiences/",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "В Бурдж-Халифе в Дубае действуют смотровые пространства At the Top. Карточка знакомит с объектом, без выбора этажей, сеанса или билетного пакета.",
+        "en": "Burj Khalifa in Dubai offers At the Top observation experiences. This entry introduces the venue without selecting floors, a session or a ticket package."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "2228",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Обзорная активность, не билет.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-AE-02",
+      "country": "united-arab-emirates",
+      "locality": {
+        "ru": "Дубай",
+        "en": "Dubai"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Пустынные окрестности Дубая",
+        "en": "Dubai desert surroundings"
+      },
+      "activity_type": "activity",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://www.visitdubai.com/en/places-to-visit/desert-safari-dubai",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Visit Dubai подтверждает пустынные сафари как туристическую активность в окрестностях города. Эта карточка описывает направление, не обещая транспорт, питание или отдельные развлечения.",
+        "en": "Visit Dubai confirms desert safaris as a visitor activity around the city. This entry describes the destination without promising transport, meals or individual entertainment activities."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "2162",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Общий подтверждённый тип активности; конкретный коммерческий пакет не проверен.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-ID-01",
+      "country": "indonesia",
+      "locality": {
+        "ru": "Кута",
+        "en": "Kuta"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Waterbom Bali",
+        "en": "Waterbom Bali"
+      },
+      "activity_type": "park",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://waterbom-bali.com/our-park",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Waterbom Bali — водный парк в Куте на острове Бали. Карточка посвящена объекту; перечень доступных развлечений и состав входного билета не определены.",
+        "en": "Waterbom Bali is a water park in Kuta on Bali. This entry introduces the venue; available attractions and admission benefits have not been specified."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "175",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Только парк и подтверждённая местность.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-ID-02",
+      "country": "indonesia",
+      "locality": {
+        "ru": "Бадунг, Бали",
+        "en": "Badung, Bali"
+      },
+      "city_imported": false,
+      "venue": {
+        "ru": "Аэропорт I Gusti Ngurah Rai",
+        "en": "I Gusti Ngurah Rai Airport"
+      },
+      "activity_type": "transfer",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://ngurahrai.injourneyairports.id/",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        },
+        {
+          "url": "https://mail.bali-airport.com/en/public-transport/index",
+          "purpose": "Independent additional venue/location confirmation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Официальный сайт аэропорта I Gusti Ngurah Rai содержит информацию о наземном транспорте. Карточка справочная: конкретный маршрут, автомобиль и обслуживание в лаунже не заявлены.",
+        "en": "I Gusti Ngurah Rai Airport’s official website provides ground-transport information. This is a reference entry: no particular route, vehicle or lounge service is promised."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "90244",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Коммерческий transfer + lounge сужен до транспортной справки. Бадунг — регион, city=null; подтверждение транспортных зон: https://mail.bali-airport.com/en/public-transport/index",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-LK-01",
+      "country": "sri-lanka",
+      "locality": {
+        "ru": "Сигирия",
+        "en": "Sigiriya"
+      },
+      "city_imported": false,
+      "venue": {
+        "ru": "Археологический комплекс Сигирия",
+        "en": "Sigiriya heritage site"
+      },
+      "activity_type": "activity",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://ccf.gov.lk/heritage-sites/",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        },
+        {
+          "url": "https://ccf.gov.lk/vsl/contact",
+          "purpose": "Independent additional venue/location confirmation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Сигирия — культурно-исторический объект Шри-Ланки, представленный Central Cultural Fund. Карточка касается самого комплекса, без маршрута из Коломбо или дополнительных остановок.",
+        "en": "Sigiriya is a Sri Lankan cultural heritage site listed by the Central Cultural Fund. This entry concerns the site itself, without a route from Colombo or additional stops."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "148638",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Кандидат Sigiriya + Dambulla из Коломбо сужен до Сигирии. Сигирия записана как направление, не административный город.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-LK-02",
+      "country": "sri-lanka",
+      "locality": {
+        "ru": "Дамбулла",
+        "en": "Dambulla"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Пещерный храм Дамбуллы",
+        "en": "Dambulla Cave Temple"
+      },
+      "activity_type": "activity",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://ccf.gov.lk/heritage-sites/",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        },
+        {
+          "url": "https://ccf.gov.lk/vsl/contact",
+          "purpose": "Independent additional venue/location confirmation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Пещерный храм Дамбуллы указан среди объектов Central Cultural Fund. Карточка представляет храмовый комплекс без заявленного маршрута из Анурадхапуры или посещения Пидурангалы.",
+        "en": "Dambulla Cave Temple is listed among the Central Cultural Fund’s sites. This entry introduces the temple complex without claiming a route from Anuradhapura or a Pidurangala visit."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "25045",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Многоточечный коммерческий маршрут не подтверждён; оставлен только храм.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-MV-01",
+      "country": "maldives",
+      "locality": {
+        "ru": "Хулхумале",
+        "en": "Hulhumale"
+      },
+      "city_imported": false,
+      "venue": {
+        "ru": "Морская акватория района Мале",
+        "en": "Marine waters around Male"
+      },
+      "activity_type": "activity",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://secretparadise.mv/product/3-point-morning-or-afternoon-snorkeling-copy/",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Secret Paradise подтверждает снорклинг-активности в районе Мале с отправлением из Хулхумале. Карточка не определяет риф, количество остановок или включённое снаряжение.",
+        "en": "Secret Paradise confirms snorkeling activities around Male departing from Hulhumale. This entry does not specify a reef, number of stops or included equipment."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "34207",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Официальный оператор подтверждает тип активности; его пакет, длительность и включения не импортированы. Хулхумале — направление, не отдельный город.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-MV-02",
+      "country": "maldives",
+      "locality": {
+        "ru": "Вилимале",
+        "en": "Villimale"
+      },
+      "city_imported": false,
+      "venue": {
+        "ru": "Остров Вилимале",
+        "en": "Villimale island"
+      },
+      "activity_type": "activity",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://secretparadise.mv/product/4-hour-villimale-eco-walking-tour/",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Secret Paradise описывает пешие прогулки по Вилимале. Карточка представляет остров и формат знакомства с ним, без копирования операторской программы или списка услуг.",
+        "en": "Secret Paradise describes walking visits to Villimale. This entry presents the island and activity format without reproducing the operator’s programme or list of services."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "223744",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Вилимале — остров/район Мале, city=null. Услуги и четырёхчасовая длительность не перенесены.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-IN-01",
+      "country": "india",
+      "locality": {
+        "ru": "Агра",
+        "en": "Agra"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Тадж-Махал",
+        "en": "Taj Mahal"
+      },
+      "activity_type": "activity",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://www.tajmahal.gov.in/",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Тадж-Махал расположен в Агре. Эта редакционная карточка посвящена памятнику; посещение других объектов Агры и транспортное сопровождение не заявлены.",
+        "en": "The Taj Mahal is in Agra. This editorial entry focuses on the monument; other Agra sites and transport services are not promised."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "129747",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Кандидат с дополнительными объектами сужен до одного подтверждённого памятника.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-IN-02",
+      "country": "india",
+      "locality": {
+        "ru": "Дели",
+        "en": "Delhi"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Золотой треугольник: Дели, Агра и Джайпур",
+        "en": "Golden Triangle: Delhi, Agra and Jaipur"
+      },
+      "activity_type": "tour",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur.html",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Официальный туристический ресурс Индии связывает Дели, Агру и Джайпур направлением «Золотой треугольник». Карточка — обзор этого направления, без программы по дням и включённых услуг.",
+        "en": "India’s official tourism resource identifies Delhi, Agra and Jaipur as the Golden Triangle. This entry is a destination overview without a day-by-day programme or included services."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "97417",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Дели — только город привязки каталога, не обещанная точка старта. Все три города перечислены в реестре; порядок и длительность не заявлены.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-MY-01",
+      "country": "malaysia",
+      "locality": {
+        "ru": "Куала-Лумпур",
+        "en": "Kuala Lumpur"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Башни PETRONAS",
+        "en": "PETRONAS Twin Towers"
+      },
+      "activity_type": "activity",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://www.petronastwintowers.com.my/",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Башни PETRONAS находятся в Куала-Лумпуре. Карточка знакомит с архитектурным объектом, не выбирая смотровую программу или условия входа.",
+        "en": "The PETRONAS Twin Towers are in Kuala Lumpur. This entry introduces the architectural landmark without selecting a viewing programme or admission conditions."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "2750",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Не билет или Sky Xperience пакет.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-MY-02",
+      "country": "malaysia",
+      "locality": {
+        "ru": "Лангкави",
+        "en": "Langkawi"
+      },
+      "city_imported": false,
+      "venue": {
+        "ru": "Канатная дорога SkyCab",
+        "en": "SkyCab cable car"
+      },
+      "activity_type": "activity",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://panoramalangkawi.com/visitor-information/",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "SkyCab — канатная дорога на Лангкави, представленная оператором Panorama Langkawi. Карточка относится к этому объекту, без включения SkyBridge или других развлечений в пакет.",
+        "en": "SkyCab is a cable-car attraction on Langkawi presented by Panorama Langkawi. This entry concerns that attraction without bundling SkyBridge or other activities."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "23229",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Лангкави — островное направление, city=null. Дополнительные объекты не включены.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-PH-01",
+      "country": "philippines",
+      "locality": {
+        "ru": "Манила",
+        "en": "Manila"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Manila Ocean Park",
+        "en": "Manila Ocean Park"
+      },
+      "activity_type": "park",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://manilaoceanpark.com/",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Manila Ocean Park — морской тематический парк в Маниле. Карточка представляет объект без выбранной комбинации экспозиций, шоу или услуг.",
+        "en": "Manila Ocean Park is a marine theme park in Manila. This entry introduces the venue without selecting a combination of exhibits, shows or services."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "9788",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Не воспроизводится коммерческая комбинация билетов.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-PH-02",
+      "country": "philippines",
+      "locality": {
+        "ru": "Моалбоал",
+        "en": "Moalboal"
+      },
+      "city_imported": false,
+      "venue": {
+        "ru": "Остров Пескадор",
+        "en": "Pescador Island"
+      },
+      "activity_type": "activity",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://moalboalcebu.gov.ph/home/",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Муниципальный сайт Моалбоала представляет остров Пескадор среди местных направлений. Карточка посвящена острову, без обещания лодочного маршрута, снорклинга или встреч с животными.",
+        "en": "Moalboal’s municipal website lists Pescador Island among local destinations. This entry concerns the island without promising a boat route, snorkeling session or wildlife encounters."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "3848",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Сужено с коммерческого island-hopping до островного направления. Моалбоал — муниципалитет; не помечается city.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-KR-01",
+      "country": "south-korea",
+      "locality": {
+        "ru": "Сеул",
+        "en": "Seoul"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "N Seoul Tower",
+        "en": "N Seoul Tower"
+      },
+      "activity_type": "activity",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://www.nseoultower.co.kr/eng/visit/observatory.asp",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "N Seoul Tower предлагает смотровую площадку в Сеуле. Карточка описывает объект и обзорный формат посещения, без выбранного входного времени или пакета.",
+        "en": "N Seoul Tower offers an observatory in Seoul. This entry describes the venue and viewing activity without selecting an admission time or package."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "11391",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Только смотровая активность.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-KR-02",
+      "country": "south-korea",
+      "locality": {
+        "ru": "Сеул",
+        "en": "Seoul"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Театр NANTA в Мёндоне",
+        "en": "Myeongdong NANTA Theatre"
+      },
+      "activity_type": "show",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://nanta.co.kr/en/show/detail.php?id=1",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Официальный сайт NANTA подтверждает представление в театре Мёндона в Сеуле. Карточка знакомит с шоу, не назначая дату, категорию мест или доступность билетов.",
+        "en": "NANTA’s official website confirms the performance at its Myeongdong theatre in Seoul. This entry introduces the show without assigning a date, seating category or ticket availability."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "240",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Только шоу и площадка; отзывы и рейтинг не используются.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-JP-01",
+      "country": "japan",
+      "locality": {
+        "ru": "Осака",
+        "en": "Osaka"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "Universal Studios Japan",
+        "en": "Universal Studios Japan"
+      },
+      "activity_type": "park",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://www.usj.co.jp/web/en/us/access/train",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        },
+        {
+          "url": "https://www.usj.co.jp/company/company_e/csr/pdf/CSRreport2025_EN_250714.pdf",
+          "purpose": "Independent additional venue/location confirmation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "Universal Studios Japan — тематический парк в Осаке. Карточка обозначает объект, без обещания доступа к отдельным зонам или ускоренного прохода.",
+        "en": "Universal Studios Japan is a theme park in Osaka. This entry identifies the venue without promising access to individual areas or expedited entry."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "46604",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Дополнительно официальный CSR report 2025 подтверждает адрес и деятельность; не Studio Pass или Express Pass.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    },
+    {
+      "external_product_id": "AE-EDITORIAL-JP-02",
+      "country": "japan",
+      "locality": {
+        "ru": "Токио",
+        "en": "Tokyo"
+      },
+      "city_imported": true,
+      "venue": {
+        "ru": "teamLab Planets TOKYO",
+        "en": "teamLab Planets TOKYO"
+      },
+      "activity_type": "museum",
+      "checked_on": "2026-10-14",
+      "verification": "official_source_fact_check_only",
+      "sources": [
+        {
+          "url": "https://www.gotokyo.org/en/spot/1825/index.html",
+          "purpose": "Venue, locality and activity type only; no commercial validation."
+        },
+        {
+          "url": "https://teamlabplanets.dmm.com/en/guide/access_method",
+          "purpose": "Independent additional venue/location confirmation."
+        }
+      ],
+      "confirmed_facts": {
+        "ru": "teamLab Planets TOKYO — художественное пространство в районе Тоёсу в Токио. Карточка посвящена знакомству с объектом, без выбранного сеанса и коммерческих условий.",
+        "en": "teamLab Planets TOKYO is an art venue in Tokyo’s Toyosu district. This entry introduces the venue without selecting a session or commercial conditions."
+      },
+      "candidate_reference": {
+        "platform": "klook",
+        "id": "25300",
+        "role": "Previous research candidate only. Not a supplier ID, licence or product equivalence claim."
+      },
+      "scope_limit": "Официальный туристический ресурс Токио и сайт объекта; не заявление о разрешении использовать изображения.",
+      "unconfirmed_fields": [
+        "duration",
+        "itinerary",
+        "inclusions",
+        "exclusions",
+        "packages",
+        "pricing",
+        "availability",
+        "pickup",
+        "meeting_point",
+        "cancellation",
+        "booking_conditions",
+        "reviews"
+      ],
+      "content_rights": {
+        "ru_en_text": "Original ASIA EDITION editorial wording prepared for this project; not translated or copied source descriptions.",
+        "external_texts": "Not reproduced. Public access does not grant a reuse licence.",
+        "images": "No images imported; no image rights established.",
+        "trademarks": "Names identify venues only; no affiliation or endorsement claimed.",
+        "commercial_partnership": "Not confirmed; no supplier relationship created."
+      },
+      "editorial_review": "pending",
+      "publication_status": "draft"
+    }
+  ]
+}

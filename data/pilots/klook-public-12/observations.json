@@ -1,0 +1,27 @@
+{
+  "observed_at": "2026-10-25T14:35:00Z",
+  "access": "web search/index reader; NOT live checkout or a successful raw HTML crawl",
+  "listing_source": "https://www.klook.com/en-US/destination/c6-singapore/1-things-to-do/",
+  "products": [
+    ["127","gardens-by-the-bay-singapore","Gardens by the Bay Ticket","Билет в Gardens by the Bay","parks","park","Посещение садов Gardens by the Bay в Сингапуре.","Visit Gardens by the Bay in Singapore.","3-5 hours",14.09],
+    ["117","universal-studios-singapore","Universal Studios Singapore Ticket","Билет в Universal Studios Singapore","parks","park","Посещение тематического парка Universal Studios Singapore на Сентозе.","Visit Universal Studios Singapore theme park on Sentosa.",null,56.25],
+    ["119","singapore-oceanarium","Singapore Oceanarium Ticket","Билет в Singapore Oceanarium","tickets","ticket","Посещение Singapore Oceanarium на острове Сентоза.","Visit Singapore Oceanarium on Sentosa Island.","2-4 hours",37.89],
+    ["3928","singapore-night-safari-singapore","Night Safari Ticket | Mandai Wildlife Reserve, Singapore","Билет в Night Safari, Сингапур","tickets","ticket","Посещение Night Safari в природном комплексе Mandai в Сингапуре.","Visit Night Safari at Mandai Wildlife Reserve in Singapore.","2-4 hours",45.20],
+    ["141","singapore-zoo-singapore","Singapore Zoo Ticket | Mandai Wildlife Reserve, Singapore","Билет в Сингапурский зоопарк","tickets","ticket","Посещение Сингапурского зоопарка в комплексе Mandai.","Visit Singapore Zoo at Mandai Wildlife Reserve.","4-6 hours",15.95],
+    ["132","skyline-luge-singapore","Skyline Luge Singapore Ticket","Билет в Skyline Luge Singapore","entertainment","entertainment","Посещение Skyline Luge на острове Сентоза в Сингапуре.","Visit Skyline Luge on Sentosa Island in Singapore.","1-2 hours",25.35],
+    ["130","faber-peak-cable-car-singapore","Singapore Cable Car SkyPass","Singapore Cable Car SkyPass — канатная дорога","tickets","ticket","Поездка по канатной дороге Singapore Cable Car. Доступные линии зависят от выбранного пакета.","Ride the Singapore Cable Car. Included lines depend on the selected package.","1 hour",24.99],
+    ["133319","harry-potter-visions-of-magic-in-resorts-world-sentosa-singapore","Harry Potter: Visions of Magic","Harry Potter: Visions of Magic — Сингапур","entertainment","entertainment","Посещение Harry Potter: Visions of Magic в Resorts World Sentosa.","Visit Harry Potter: Visions of Magic at Resorts World Sentosa.","2-3 hours",13.15],
+    ["135","wings-of-time-singapore","Wings of Time Fireworks Symphony Ticket in Singapore","Билет на Wings of Time Fireworks Symphony","shows","show","Посещение шоу Wings of Time Fireworks Symphony в Сингапуре.","Attend Wings of Time Fireworks Symphony in Singapore.",null,14.65],
+    ["240417","attack-on-titan-the-musical","ATTACK on TITAN: The Musical","ATTACK on TITAN: The Musical — мюзикл","shows","show","Мюзикл ATTACK on TITAN в Сингапуре. Даты показа требуют отдельной проверки.","ATTACK on TITAN musical in Singapore. Performance dates require separate verification.",null,39.40],
+    ["34577","golden-village-cinema-everyday-movie-e-voucher","Golden Village Cinema EVERYDAY Movie e-Voucher","Электронный ваучер Golden Village Cinema EVERYDAY","entertainment","entertainment","Электронный ваучер для кинотеатров Golden Village в Сингапуре. Условия использования зависят от пакета.","An electronic voucher for Golden Village cinemas in Singapore. Redemption conditions depend on the package.",null,10.19],
+    ["3846","river-cruise-singapore","Singapore River Cruise","Речной круиз по Сингапуру","sea","excursion","Речная прогулка Singapore River Cruise в Сингапуре.","Take a Singapore River Cruise in Singapore.",null,19.89]
+  ],
+  "price_interpretation": "Observed listing USD display amounts only. Not verified adult/child prices, not guaranteed current, no validity or package/person mapping. Never imported as sellable prices.",
+  "photo_candidates": [
+    {"product_id":"127","url":"https://res.klook.com/image/upload/w_500%2Ch_313%2Cc_fill%2Cq_85/activities/yh8dwnunfwarcg7ynmdx.jpg","head_status":200,"content_type":"image/jpeg","content_length":66395},
+    {"product_id":"117","url":"https://res.klook.com/image/upload/w_500%2Ch_313%2Cc_fill%2Cq_85/activities/ixmtghl0j8bd9pnqo57w.jpg","head_status":200,"content_type":"image/jpeg","content_length":50593},
+    {"product_id":"119","url":"https://res.klook.com/image/upload/w_500%2Ch_313%2Cc_fill%2Cq_85/activities/buqhe8gixzxzs53wmgvs.jpg","head_status":200,"content_type":"image/jpeg","content_length":46063}
+  ],
+  "photo_note": "URLs associated with products in the listing. HEAD checked, binary not downloaded and visual correspondence not verified. First detail-page image links were PartnerAward badges, not attraction photos; excluded.",
+  "direct_http_test": {"robots_url":"https://www.klook.com/robots.txt","robots_status":200,"product_url":"https://www.klook.com/en-US/activity/127-gardens-by-the-bay-singapore/","product_status":403,"body_length":777,"title":"klook.com","json_ld_found":false,"stopped_on_denial":true,"captcha_or_block_bypassed":false}
+}
